@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="nim">Nim        : A11.2016.09503</string>
+    <string name="nama">Nama       : Vareza Vimaretantyo</string>
+    <string name="hobby">Hobby      : Main, Makan, Tidur</string>
+    <string name="deskripsi">Deskripsi  : Mahasiswa Semester 5 yang newbie di android</string>
+    <string name="alamat">Alamat</string>
+    <string name="email">E-Mail</string>
+    <string name="telepon">Telepon</string>
+</resources>
